@@ -1,0 +1,13 @@
+[Atividade 008] Introdução à programação concorrente
+
+
+*Equipe:
+- Fabrizio Honda Franzoia
+
+
+*GitHub:
+(Somente a apresentação com a explicação do código)
+
+
+*Apresentação:
+https://drive.google.com/file/d/1Yyb13x4-ftbeHa_bkSHenwVvH3SRT1dp/view?usp=sharing

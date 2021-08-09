@@ -1,0 +1,17 @@
+[Atividade 005] Fixação em PROLOG
+
+
+*Equipe:
+- Dayvson dos Santos Silva
+- Fabrizio Honda Franzoia
+- Gabriel Alexander Farias de Lima Teixeira
+- Gabriel Sena San Martin
+- Gonzalo Ivan dos Santos Portales
+
+
+*GitHub:
+https://github.com/gabrielalextx/estcmp005/tree/main/Atividade%2005%20-%20Fixa%C3%A7%C3%A3o%20em%20PROLOG
+
+
+*Apresentação:
+(Sem apresentação, apenas exercício)

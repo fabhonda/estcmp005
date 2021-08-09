@@ -1,0 +1,18 @@
+[Atividade 012] Programação Orientada a Objetos
+
+
+*Equipe:
+- Fabrizio Honda Franzoia
+- Gabriel Alexander Farias de Lima Teixeira
+- Gabriel Sena San Martin
+- Helder Melik Schramm
+- Jackson Goncalves Gomes
+
+
+
+*GitHub:
+https://github.com/gasmartin/estcmp005-object-oriented-programming
+
+
+*Apresentação:
+https://docs.google.com/presentation/d/1ddDxSQyhT3mBOjLW-i7wNV1-o-SYgAaEFPb0CYj9qC4/edit?usp=sharing

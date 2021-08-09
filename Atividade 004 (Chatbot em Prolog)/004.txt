@@ -1,0 +1,17 @@
+[Atividade 004] Programação em Lógica com PROLOG
+
+
+*Equipe:
+- Dayvson dos Santos Silva
+- Fabrizio Honda Franzoia
+- Gabriel Alexander Farias de Lima Teixeira
+- Gabriel Sena San Martin
+- Gonzalo Ivan dos Santos Portales
+
+
+*GitHub:
+https://github.com/gabrielalextx/estcmp005/tree/main/Atividade%2004%20-%20Chatbot
+
+
+*Apresentação:
+https://drive.google.com/file/d/18XGHadw7b1XINyvq_Ux5pLhT8-YN__Tr/view?usp=sharing

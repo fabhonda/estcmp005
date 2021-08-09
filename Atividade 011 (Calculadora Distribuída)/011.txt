@@ -1,0 +1,17 @@
+[Atividade 011] Programação Concorrente - Calculadora Distribuída
+
+*Equipe:
+- Anna Alicia V. Milani
+- Caio Andrade Mota
+- Fabrizio Honda Franzoia
+- José Jordan G. Alcantara
+- Vanessa de Souza Câmara
+
+
+
+*GitHub:
+https://github.com/JordanJose/calculadora_erlang_processos
+
+
+*Apresentação:
+https://docs.google.com/presentation/d/1b-VtPAfcF9T5RKgkLN-osDBfVmYQiMeSkvgNhUtqujA/edit?usp=sharing

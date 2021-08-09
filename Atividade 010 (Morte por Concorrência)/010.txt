@@ -1,0 +1,18 @@
+[Atividade 010] Programação Concorrente - Morte por concorrência
+
+
+*Equipe:
+- Anna Alicia V. Milani
+- Caio Andrade Mota
+- Fabrizio Honda Franzoia
+- José Jordan G. Alcantara
+- Vanessa de Souza Câmara
+
+
+
+*GitHub:
+https://github.com/caioandrademota/programacao-concorrente
+
+
+*Apresentação:
+https://drive.google.com/file/d/18P0xDBUCgBzmCxWwPOKfA-rgaa4uBCpx/view?usp=sharing

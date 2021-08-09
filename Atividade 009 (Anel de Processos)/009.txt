@@ -1,0 +1,18 @@
+[Atividade 009] Programação Concorrente - Anel de Processos
+
+
+*Equipe:
+- Anna Alicia V. Milani
+- Caio Andrade Mota
+- Fabrizio Honda Franzoia
+- José Jordan G. Alcantara
+- Vanessa de Souza Câmara
+
+
+
+*GitHub:
+https://github.com/caioandrademota/programacao-concorrente
+
+
+*Apresentação:
+https://docs.google.com/presentation/d/1NT7IOLAbsCOB49uhKe9gUUPXdpjGQOok9WO31OovSv0/edit?usp=sharing

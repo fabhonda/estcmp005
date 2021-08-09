@@ -1,0 +1,15 @@
+[Atividade 006] Programação Funcional
+
+
+*Equipe:
+- Caio Andrade Mota
+- Caio de Oliveira Martins
+- Fabrizio Honda Franzoia
+
+
+*GitHub:
+https://github.com/caioandrademota/PLP-questions
+
+
+*Apresentação:
+(Sem apresentação, apenas exercício)
